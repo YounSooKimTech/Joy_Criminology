@@ -2,14 +2,22 @@
 
 ## Introduction:
 The sun was the same as it had been the day I'd buried Maman, and like then, my forehead especially was hurting me all the veins in it throbbing under the skin...My whole being tensed and I squeezed my hand around the revolver. 
--Albert Camus, The Stranger-
+This is a quotation from Albert Camus' "The Stranger". Meursault killed the Arab due to the sun in his eyes.
+Building upon previous research indicating a positive relationship between air pollution and general crime occurrence, our inquiry extends to the realm of hate crimes. 
+Will air pollution exhibit a similar impact on hate crimes? 
+Additionally, echoing Meursault's sentiments, could the magnitude of sunlight influence both general and hate crime rates?
 
 ## Data
-2000 ~ 2019, State-level datasets from the following sources:
 - Pollution Data: Air pollution data from EPA on major pollutants. 
 - Crime Data: General crimes (violent crimes and property crimes) and Hate Crimes from the US Federal Bureau of Investigation (FBI)
 Control Variables:
 - Demographic Variables (Population, Median age, percentage of male population, percentage of White population, Percentage of population who completed at least some college) and Economic Variables (Per capita income and unemployment rate)
+- The data after COVID (2020~) is excluded from the study due to its deviating trend
+
+## Model
+- Mixed-effect model
+- Region-level and year-fixed effect to control any unobserved heterogeneity
+- To use the population as a control variable, the number of crimes used in the models are crime per 100K population
 
 
 ## Findings
