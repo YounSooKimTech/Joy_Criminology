@@ -1,4 +1,7 @@
 # Joy_Criminology
+- If you have any questions or feedback about the project, please don't hesitate to reach out to yk2949@columbia.edu
+<br>
+
 
 ## Introduction:
 The sun was the same as it had been the day I'd buried Maman, and like then, my forehead especially was hurting me all the veins in it throbbing under the skin...My whole being tensed and I squeezed my hand around the revolver. 
@@ -27,9 +30,6 @@ Control Variables:
 - Sun exposure is linked to a rise in overall crime rates but correlates with a decrease in hate crimes.
 - A higher percentage of White population is associated with lower violent and property crime rates but shows a positive correlation with hate crimes.
 - Educational attainment is inversely related to general crime rates, while it exhibits a positive correlation with hate crime incidents.
-
-- If you have any questions or feedback about the project, please don't hesitate to reach out to yk2949@columbia.edu
-<br>
 
 ## Data Source
 - **Sun Exposure CDC**: https://ephtracking.cdc.gov/DataExplorer/
