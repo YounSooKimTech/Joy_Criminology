@@ -1,6 +1,6 @@
 # Joy_Criminology
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://asc41.org/events/asc-annual-meeting/" target="_blank">
+  <a href="https://asc41.org/events/asc-annual-meeting/">
     <img src="Images/American_Society_of_Criminology_logo.svg" alt="Alt Text" width="100">
   </a>
 </div>
