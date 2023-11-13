@@ -9,7 +9,7 @@ The sun was the same as it had been the day I'd buried Maman, and like then, my 
 
 <br>
 
-This is a quotation from Albert Camus' "The Stranger". Meursault killed the Arab due to the sun in his eyes.
+This is a quotation from *Albert Camus' "The Stranger"*. Meursault killed the Arab due to the sun in his eyes.
 Building upon previous research indicating a positive relationship between air pollution and general crime occurrence, our inquiry extends to the realm of hate crimes. 
 Will air pollution exhibit a similar impact on hate crimes? 
 Additionally, echoing Meursault's sentiments, could the magnitude of sunlight influence both general and hate crime rates?
