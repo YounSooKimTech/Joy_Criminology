@@ -1,9 +1,9 @@
 # Joy_Criminology
 
-
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="Images/American_Society_of_Criminology_logo.svg" alt="Alt Text" width="100">
-</div> 
+</div>
+
 
 - If you have any questions or feedback about the project, please don't hesitate to reach out to yk2949@columbia.edu
 <br>
