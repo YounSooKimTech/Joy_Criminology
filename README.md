@@ -1,9 +1,11 @@
 # Joy_Criminology
-<img src="Images/American_Society_of_Criminology_logo.svg" alt="Alt Text" width="100">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) 
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="Images/American_Society_of_Criminology_logo.svg" alt="Alt Text" width="100">
+  <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="Alt Text" width="300">
+  <img src="https://www.r-project.org/logo/Rlogo.svg" alt="Alt Text" width="100">  
+</div> 
 
 - If you have any questions or feedback about the project, please don't hesitate to reach out to yk2949@columbia.edu
 <br>
