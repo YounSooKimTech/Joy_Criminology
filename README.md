@@ -1,5 +1,10 @@
 # Joy_Criminology
 
+
+
+- If you have any questions or feedback about the project, please don't hesitate to reach out to yk2949@columbia.edu
+<br>
+
 ## Data Source
 - **Sun Exposure CDC**: https://ephtracking.cdc.gov/DataExplorer/
 - **FBI General and Hate Crimes**: https://ucr.fbi.gov/crime-in-the-u.s
