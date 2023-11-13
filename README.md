@@ -12,6 +12,8 @@ Building upon previous research indicating a positive relationship between air p
 Will air pollution exhibit a similar impact on hate crimes? 
 Additionally, echoing Meursault's sentiments, could the magnitude of sunlight influence both general and hate crime rates?
 
+<br>
+
 ## Data
 - Pollution Data: Air pollution data from EPA on major pollutants. 
 - Crime Data: General crimes (violent crimes and property crimes) and Hate Crimes from the US Federal Bureau of Investigation (FBI)
@@ -19,16 +21,21 @@ Control Variables:
 - Demographic Variables (Population, Median age, percentage of male population, percentage of White population, Percentage of population who completed at least some college) and Economic Variables (Per capita income and unemployment rate)
 - The data after COVID (2020~) is excluded from the study due to its deviating trend
 
+<br>
+
 ## Model
 - Mixed-effect model
 - Region-level and year-fixed effect to control any unobserved heterogeneity
 - To use the population as a control variable, the number of crimes used in the models are crime per 100K population
 
+<br>
 
 ## Findings
 - Sun exposure is linked to a rise in overall crime rates but correlates with a decrease in hate crimes.
 - A higher percentage of White population is associated with lower violent and property crime rates but shows a positive correlation with hate crimes.
 - Educational attainment is inversely related to general crime rates, while it exhibits a positive correlation with hate crime incidents.
+
+<br>
 
 ## Data Source
 - **Sun Exposure CDC**: https://ephtracking.cdc.gov/DataExplorer/
