@@ -5,9 +5,7 @@
 
 
 ## Introduction:
-The sun was the same as it had been the day I'd buried Maman, and like then, my forehead especially was hurting me all the veins in it throbbing under the skin...My whole being tensed and I squeezed my hand around the revolver. 
-
-<br>
+*The sun was the same as it had been the day I'd buried Maman, and like then, my forehead especially was hurting me all the veins in it throbbing under the skin...My whole being tensed and I squeezed my hand around the revolver. -Albert Camus, The Stranger-*
 
 This is a quotation from *Albert Camus' "The Stranger"*. Meursault killed the Arab due to the sun in his eyes.
 Building upon previous research indicating a positive relationship between air pollution and general crime occurrence, our inquiry extends to the realm of hate crimes. 
