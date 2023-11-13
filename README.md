@@ -1,4 +1,5 @@
 # Joy_Criminology
+<img src="Images/American_Society_of_Criminology_logo.svg" alt="Alt Text" width="100">
 
 - If you have any questions or feedback about the project, please don't hesitate to reach out to yk2949@columbia.edu
 <br>
