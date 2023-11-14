@@ -6,8 +6,8 @@
 </div>
 
 
-- If you have any questions or feedback about the project, please don't hesitate to reach out to yk2949@columbia.edu and zh2263@columbia.edu
-- 
+- If you have any questions or feedback about the project, please don't hesitate to reach out to Joy (yk2949@columbia.edu) and Mike (zh2263@columbia.edu).
+  
 <br>
 
 
